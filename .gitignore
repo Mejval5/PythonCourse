@@ -1,0 +1,7 @@
+.local/
+.ipython/
+.vscode/
+.cache/
+
+venv
+.ipynb_checkpoints/
